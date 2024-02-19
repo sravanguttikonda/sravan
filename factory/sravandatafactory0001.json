@@ -1,0 +1,9 @@
+{
+	"name": "sravandatafactory0001",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7b84f460-b0da-4be2-a157-3b155fb9d33f",
+		"tenantId": "fcbe269a-223c-4878-b148-f6feece52535"
+	}
+}
